@@ -8,9 +8,9 @@
 * former prison inmate
 * bodybuilder
 
-(A link to my blog)[http://burnlawson.blogspot.com]
+[http://burnlawson.blogspot.com](A link to my blog)
 
-!(pic of me and my dogs)[0.jpeg]
+![0.jpeg](pic of me and my dogs)
 
 #### three things i like
 1. girls
